@@ -1,8 +1,5 @@
 ![Hi 👋, I'm Carlos Revilla Olivares, A passionate Full Stack Developer 👨‍💻🇪🇸](https://user-images.githubusercontent.com/51401631/88722420-8136bf80-d127-11ea-8604-79728f4a2e9e.png)
 
-  <img src="https://komarev.com/ghpvc/?username=karrevi" alt="https://github.com/karrevi" />
-</p>
-
 - 👨🏽‍💻 Currently working in deep learning, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in deep learning, analytics and data science.
 - 😊 Willing to contribute in opensource projects.
