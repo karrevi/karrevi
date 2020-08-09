@@ -1,5 +1,9 @@
 ![Hi 👋, I'm Carlos Revilla Olivares, A passionate Full Stack Developer 👨‍💻🇪🇸](https://user-images.githubusercontent.com/51401631/88722420-8136bf80-d127-11ea-8604-79728f4a2e9e.png)
 
+<p align = "center">
+<img src="https://komarev.com/ghpvc/?username=karrevi" alt="https://github.com/karrevi" />
+</p>
+
 - 👨🏽‍💻 Currently working in deep learning, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in deep learning, analytics and data science.
 - 😊 Willing to contribute in opensource projects.
@@ -12,8 +16,7 @@ To connect with me,
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/carlosweb_90)
 [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://lnkd.in/dqgd6nv)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/clrevilla/)
-![Visits Badge](https://badges.pufler.dev/visits/karrevi/karrevi?style=for-the-badge ) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/clrevilla/) 
 
 </p>
 
