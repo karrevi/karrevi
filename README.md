@@ -25,7 +25,8 @@ My Tech Stack :
   <img src="https://img.shields.io/badge/javascript%20-%F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/angular%20-%DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/laravel%20-%FF2D20.svg?&style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/laravel%20-%FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/php%20-%FF2D20.svg?&style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
