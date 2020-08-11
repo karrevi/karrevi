@@ -29,11 +29,8 @@ My Tech Stack :
   <img src="https://img.shields.io/badge/laravel%20-%FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20" />
   <img src="https://img.shields.io/badge/php%20-%FF2D20.svg?&style=for-the-badge&logo=php&logoColor=white&color=777BB4" />
   <img src="https://img.shields.io/badge/MySQL%20-%2343853D.svg?&style=for-the-badge&logo=MySQL&logoColor=white&color=4479A1" />
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white&color=339933" />
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white&color=339933" />
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white&color=339933" />
-  
-  
+  <img src="https://img.shields.io/badge/MongoDB%20-%2343853D.svg?&style=for-the-badge&logo=MongoDB&logoColor=white&color=47A248" />
+  <img src="https://img.shields.io/badge/Docker%20-%2343853D.svg?&style=for-the-badge&logo=Docker&logoColor=white&color=2496ED" />
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&color=F05032"/> 
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white&color=232F3E"/> 
   <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white&color=430098"/> 
