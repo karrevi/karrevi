@@ -34,6 +34,7 @@ My Tech Stack :
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&color=F05032"/> 
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white&color=232F3E"/> 
   <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white&color=430098"/> 
+  <img src="https://img.shields.io/badge/vercel%20-%23430098.svg?&style=for-the-badge&logo=vercel&logoColor=white&color=000000"/> 
 </p>
 
 ---
