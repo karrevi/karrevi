@@ -1,4 +1,4 @@
-![Hi 👋, I'm Carlos Revilla Olivares, A passionate Full Stack Developer 👨‍💻🇪🇸](https://user-images.githubusercontent.com/51401631/139681324-ebea26a5-28e9-433d-b525-cf152567dd58.png))
+![Hi 👋, I'm Carlos Revilla Olivares, A passionate Full Stack Developer 👨‍💻🇪🇸](https://user-images.githubusercontent.com/51401631/139681324-ebea26a5-28e9-433d-b525-cf152567dd58.png)
 
 <p align = "center">
 <img src="https://komarev.com/ghpvc/?username=karrevi" alt="https://github.com/karrevi" />
